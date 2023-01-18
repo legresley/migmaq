@@ -2,12 +2,12 @@
 
 <p>This pulls from mi'kmaq online (mikmaqonline.org). Add a new batch of words as a "fork"! Here is my base file. Go to https://www.ankiapp.com/ to download the app to use this file.</p>
 
----
+<hr>
 <p><b>How to import file</b>
 Go to File>Import in Anki and add file.
 I suggest using it on wifi if you have limited data.</p>
----
-<b>How to add words</b>
+<hr>
+<p><b>How to add words</b></p>
 <ol>
 <li>Click "Add" at the top of the computer app and on that screen make sure to select "Mi'kmaq English" Type and "Mi'gmaq (MikmaqOnline)" Deck.</li>
 <li>Go to mikmaqonline.org and find a word.</li>
@@ -34,5 +34,6 @@ I suggest using it on wifi if you have limited data.</p>
 <li>Hit "Add"</li>
 <li>Start practicing!</li>
 </ol>
----
-Wela'lioq!
+<hr>
+
+<p>Wela'lioq! Thanks also to Mikmaqonline.org!</p>
