@@ -1,6 +1,6 @@
 <h2>Mi'kmaq/Mi'gmaq Anki Deck</h2>
 
-<p>This pulls from mi'kmaq online (mikmaqonline.org). Add a new batch of words as a "fork"! Here is my base file. Go to https://www.ankiapp.com/ to download the app to use this file.</p>
+<p>This pulls from mi'kmaq online (mikmaqonline.org). Add a new batch of words as a "fork"! My base file is in the repository. Go to https://www.ankiapp.com/ to download the app to use this file.</p>
 
 <hr>
 <p><b>How to import file</b>
