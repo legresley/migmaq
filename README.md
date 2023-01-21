@@ -1,6 +1,8 @@
 <h2>Mi'kmaq/Mi'gmaq Anki Deck</h2>
 
-<p>This pulls from mi'kmaq online (mikmaqonline.org). Add a new batch of words as a "fork"! My base file is in the repository. Go to https://www.ankiapp.com/ to download the app to use this file.</p>
+<b>NEW : Download Mi'gmaq Megadeck for all 6500 cards, with direct reference to Mikmaq Online!</b>
+
+<p>This file (Mi'gmaq (Mi'kmaq Online)) pulls from mikmaqonline.org. Add a new batch of words as a "fork"! My base file is in the repository. Go to https://www.ankiapp.com/ to downloa d the app to use this file.</p>
 
 <hr>
 <p><b>How to import file</b>
